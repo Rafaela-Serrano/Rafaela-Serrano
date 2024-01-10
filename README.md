@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafaela Serrano-Plata</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **BloomTech**
+- 🔭 I’m currently working on **Binary Trees making practice in code signal**
 
-- 🌱 I’m currently learning **Data Structures and Recursion**
+- 🌱 I’m currently learning **Binary Trees and BST**
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **JS, CSS, HTML and more**
+- 💬 Ask me about **JS, CSS, HTML, and more**
 
 - 📫 How to reach me **rafaelaserrano96@gmail.com**
 
