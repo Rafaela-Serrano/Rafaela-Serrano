@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafaela Serrano-Plata</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Binary Trees making practice in code signal**
+- 🔭 I’m currently working on **implementing the Auth0 microservice**
 
-- 🌱 I’m currently learning **Binary Trees and BST**
+- 🌱 I’m currently learning **how to authenticated using Auht0**
 
 - 👯 I’m looking to collaborate on **Projects**
 
