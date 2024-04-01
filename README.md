@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafaela Serrano-Plata</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **implementing the Auth0 microservice**
+- 🔭 I’m currently working on **a random joke generator**
 
-- 🌱 I’m currently learning **how to authenticated using Auht0**
+- 🌱 I’m currently reviewing **Leet Code**
 
 - 👯 I’m looking to collaborate on **Projects**
 
